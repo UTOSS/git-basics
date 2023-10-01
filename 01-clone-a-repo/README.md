@@ -50,7 +50,7 @@ In order for this command to work, you will need to replace `<repo_url>` with th
 
 1. Going to the home page of the repository on GitHub/GitLab and clicking on the "code" button seen in the image below:
 
-![](./images;code-button.png)
+![](./images/code-button.png)
 
 2. After clicking the code button, copying either the https url or the ssh url from the dialog which appears. Note: using ssh is recommended, but you will need to set up an SSH key
 with either GitHub or GitLab (depending on which platform you are trying to clone the repo from). To set up an SSH key you can:
