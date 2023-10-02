@@ -159,3 +159,13 @@ git checkout -b <branch_name>
 You are probably getting the idea by now, but you will once again replace `<branch_name>` with the name of the branch you want to create and checkout. It's worth noting now that
 the branch name has to be unique! If there is already an existing branch with the same name, git will not let you create a new branch with the same name.
 
+## Practice
+
+To practice your skills, you should:
+1. Create a new branch in the repo, and name it `add-<your-name>-to-completed-list`.
+2. Add your name into the file `COMPLETED.md`.
+3. Make a new commit with the message `Added <your name> to the list of people who completed the git tutorials`.
+
+Now this may seem like you have completed everything, but you aren't quite done yet! In the normal open source workflow, you are not done until your code changes are merged
+into the main upstream repo we have forked. So, even though you have completed your local changes, you will still need to go through the process of getting those changes
+into the upstream repo. This is the next lesson, so we will see you there!
