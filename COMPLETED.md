@@ -2,4 +2,3 @@
 | Name                     | GitHub username       |
 | ------------------------ | --------------------- |
 | Calum Murray             | Cali0707              | 
-| Claire Jaroonjetjumnong  | Clairelapatrada       |
