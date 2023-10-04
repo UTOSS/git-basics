@@ -1,4 +1,4 @@
 # People who have completed this course
 | Name                     | GitHub username       |
 | ------------------------ | --------------------- |
-| Calum Murray             | Cali0707              | 
+| Calum Murray             | Cali0707              | Joshua Cuevas		   | JoshuaCuevasUofT              
