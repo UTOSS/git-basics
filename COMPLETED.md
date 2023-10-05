@@ -4,9 +4,10 @@
 | Calum Murray             | Cali0707              | 
 | Charles Henville	       | charleshenville	   |
 | Claire Jaroonjetjumnong  | Clairelapatrada       |
-| Joshua Cuevas            | JoshuaCuevasUofT      | 
+| Jaycee Law               | jayceelaw             | 
+| Joshua Cuevas            | JoshuaCuevasUofT      |
 | Leo Li                   | Leo6Leo               |
 | Ray Chen                 | NotAName320           |
-| Scott Hirano             | Zazzscoot             | 
-| Vignesh Nanthakumar      | VigneshNk             | 
-| Jaycee Law               | jayceelaw             | 
+| Scott Hirano             | Zazzscoot             |
+| Victor Hau               | victorhauvi           | 
+| Vignesh Nanthakumar      | VigneshNk             |
