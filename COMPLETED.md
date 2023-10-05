@@ -7,4 +7,5 @@
 | Joshua Cuevas            | JoshuaCuevasUofT      | 
 | Leo Li                   | Leo6Leo               |
 | Ray Chen                 | NotAName320           |
+| Scott Hirano             | Zazzscoot             | 
 | Vignesh Nanthakumar      | VigneshNk             | 
