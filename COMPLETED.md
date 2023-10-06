@@ -2,7 +2,7 @@
 | Name                     | GitHub username       |
 | ------------------------ | --------------------- |
 | Calum Murray             | Cali0707              | 
-| Charles Henville	       | charleshenville	   |
+| Charles Henville	       | charleshenville	     |
 | Claire Jaroonjetjumnong  | Clairelapatrada       |
 | Jaycee Law               | jayceelaw             | 
 | Joshua Cuevas            | JoshuaCuevasUofT      |
