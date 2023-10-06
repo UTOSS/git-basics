@@ -9,7 +9,7 @@
 | Leo Li                   | Leo6Leo               |
 | Ray Chen                 | NotAName320           |
 | Scott Hirano             | Zazzscoot             |
+| Victor Gao               | Phacometer            |
 | Victor Hau               | victorhauvi           | 
 | Vignesh Nanthakumar      | VigneshNk             |
 | Yijie Wang               | yijie-04              |
-| Victor Gao               | Phacometer            |
