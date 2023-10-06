@@ -9,3 +9,4 @@
 | Ray Chen                 | NotAName320           |
 | Scott Hirano             | Zazzscoot             | 
 | Vignesh Nanthakumar      | VigneshNk             | 
+| Yijie Wang               | yijie-04             | 
