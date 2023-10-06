@@ -11,4 +11,3 @@
 | Scott Hirano             | Zazzscoot             |
 | Victor Hau               | victorhauvi           | 
 | Vignesh Nanthakumar      | VigneshNk             |
-| Yijie Wang               | yijie-04              | 
