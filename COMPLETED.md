@@ -10,3 +10,4 @@
 | Scott Hirano             | Zazzscoot             | 
 | Vignesh Nanthakumar      | VigneshNk             |
 | Jaycee Law               | jayceelaw             | 
+| Yijie Wang               | yijie-04              | 
