@@ -2,5 +2,13 @@
 | Name                     | GitHub username       |
 | ------------------------ | --------------------- |
 | Calum Murray             | Cali0707              | 
-| Leo Li                   | Leo6Leo               | 
+| Charles Henville	       | charleshenville	     |
+| Claire Jaroonjetjumnong  | Clairelapatrada       |
+| Joshua Cuevas            | JoshuaCuevasUofT      | 
+| Leo Li                   | Leo6Leo               |
+| Ray Chen                 | NotAName320           |
+| Scott Hirano             | Zazzscoot             | 
+| Vignesh Nanthakumar      | VigneshNk             |
+| Jaycee Law               | jayceelaw             | 
+| Yijie Wang               | yijie-04              | 
 | Victor Hau               | victorhauvi           | 
