@@ -9,6 +9,7 @@
 | Joshua Cuevas           | JoshuaCuevasUofT |
 | June Oh                 | JuneOh710        |
 | Leo Li                  | Leo6Leo          |
+| Michelle Collins        | michelleyucollins|
 | Muhammad Irfan          | Irf4n-Muhammad   |
 | Ray Chen                | NotAName320      |
 | Scott Hirano            | Zazzscoot        |
@@ -16,4 +17,3 @@
 | Vignesh Nanthakumar     | VigneshNk        |
 | Yijie Wang              | yijie-04         |
 | Victor Gao              | Phacometer       |
-| Michelle Collins        | michelleyucollins|
