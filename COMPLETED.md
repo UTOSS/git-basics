@@ -15,6 +15,7 @@
 | Scott Hirano            | Zazzscoot        |
 | Victor Hau              | victorhauvi      |
 | Vignesh Nanthakumar     | VigneshNk        |
+| Zain Moustafa           | awesominat       |
 | Yijie Wang              | yijie-04         |
 | Victor Gao              | Phacometer       |
 | Tom Qi                  | tomqi6195        |
