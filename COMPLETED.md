@@ -16,3 +16,4 @@
 | Vignesh Nanthakumar     | VigneshNk        |
 | Yijie Wang              | yijie-04         |
 | Victor Gao              | Phacometer       |
+| Michelle Collins        | michelleyucollins|
