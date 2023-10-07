@@ -10,6 +10,7 @@
 | June Oh                 | JuneOh710        |
 | Leo Li                  | Leo6Leo          |
 | Muhammad Irfan          | Irf4n-Muhammad   |
+|Maryam Taj               | MaryamTaj        |
 | Ray Chen                | NotAName320      |
 | Scott Hirano            | Zazzscoot        |
 | Victor Hau              | victorhauvi      |
