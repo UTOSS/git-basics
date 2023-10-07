@@ -4,6 +4,7 @@
 | Calum Murray            | Cali0707         |
 | Charles Henville        | charleshenville  |
 | Claire Jaroonjetjumnong | Clairelapatrada  |
+| Jason Tang              | jason-tang5      |
 | Jaycee Law              | jayceelaw        |
 | Joshua Cuevas           | JoshuaCuevasUofT |
 | June Oh                 | JuneOh710        |
