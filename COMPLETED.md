@@ -1,4 +1,5 @@
 # People who have completed this course
+
 | Name                    | GitHub username  |
 | ----------------------- | ---------------- |
 | Calum Murray            | Cali0707         |
@@ -10,7 +11,7 @@
 | June Oh                 | JuneOh710        |
 | Leo Li                  | Leo6Leo          |
 | Muhammad Irfan          | Irf4n-Muhammad   |
-|Maryam Taj               | MaryamTaj        |
+| Maryam Taj              | MaryamTaj        |
 | Ray Chen                | NotAName320      |
 | Scott Hirano            | Zazzscoot        |
 | Victor Hau              | victorhauvi      |
@@ -18,3 +19,4 @@
 | Yijie Wang              | yijie-04         |
 | Victor Gao              | Phacometer       |
 | Tom Qi                  | tomqi6195        |
+| Vincent Zhu             | Vincentzs        |
