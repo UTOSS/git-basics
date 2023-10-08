@@ -9,6 +9,7 @@
 | Joshua Cuevas           | JoshuaCuevasUofT |
 | June Oh                 | JuneOh710        |
 | Leo Li                  | Leo6Leo          |
+| Maria Hekimian          | maria-h-03       |
 | Muhammad Irfan          | Irf4n-Muhammad   |
 | Ray Chen                | NotAName320      |
 | Scott Hirano            | Zazzscoot        |
@@ -17,4 +18,3 @@
 | Yijie Wang              | yijie-04         |
 | Victor Gao              | Phacometer       |
 | Tom Qi                  | tomqi6195        |
-| Maria Hekimian          | maria-h-03       |
