@@ -25,3 +25,4 @@
 | Karyna Lim              | karkabbage       |
 | Solemann Mateen         | SMateen21        |
 | Michael Zhou            | michaelzixizhou  |
+| Alfred Mikhael          | alfred-mikahel   |
