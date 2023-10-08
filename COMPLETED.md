@@ -12,7 +12,7 @@
 | Maria Hekimian          | maria-h-03       |
 | Michelle Collins        | michelleyucollins|
 | Muhammad Irfan          | Irf4n-Muhammad   |
-|Maryam Taj               | MaryamTaj        |
+| Maryam Taj              | MaryamTaj        |
 | Ray Chen                | NotAName320      |
 | Scott Hirano            | Zazzscoot        |
 | Victor Hau              | victorhauvi      |
@@ -20,4 +20,5 @@
 | Zain Moustafa           | awesominat       |
 | Yijie Wang              | yijie-04         |
 | Victor Gao              | Phacometer       |
+| Saksham Malik		        |Saksham11111010001|
 | Tom Qi                  | tomqi6195        |
