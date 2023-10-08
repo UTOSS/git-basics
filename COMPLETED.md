@@ -1,6 +1,6 @@
 # People who have completed this course
 | Name                    | GitHub username  |
-| ----------------------- | ---------------- |
+|-------------------------|------------------|
 | Calum Murray            | Cali0707         |
 | Charles Henville        | charleshenville  |
 | Claire Jaroonjetjumnong | Clairelapatrada  |
@@ -22,4 +22,5 @@
 | Victor Gao              | Phacometer       |
 | Saksham Malik		        |Saksham11111010001|
 | Tom Qi                  | tomqi6195        |
+| Karyna Lim              | karkabbage       |
 | Solemann Mateen         | SMateen21        |
