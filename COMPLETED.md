@@ -24,3 +24,4 @@
 | Tom Qi                  | tomqi6195        |
 | Karyna Lim              | karkabbage       |
 | Solemann Mateen         | SMateen21        |
+| Michael Zhou            | michaelzixizhou  |
