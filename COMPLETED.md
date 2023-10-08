@@ -9,6 +9,7 @@
 | Joshua Cuevas           | JoshuaCuevasUofT |
 | June Oh                 | JuneOh710        |
 | Leo Li                  | Leo6Leo          |
+| Maria Hekimian          | maria-h-03       |
 | Michelle Collins        | michelleyucollins|
 | Muhammad Irfan          | Irf4n-Muhammad   |
 |Maryam Taj               | MaryamTaj        |
