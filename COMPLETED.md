@@ -9,6 +9,7 @@
 | Joshua Cuevas           | JoshuaCuevasUofT |
 | June Oh                 | JuneOh710        |
 | Leo Li                  | Leo6Leo          |
+| Michelle Collins        | michelleyucollins|
 | Muhammad Irfan          | Irf4n-Muhammad   |
 |Maryam Taj               | MaryamTaj        |
 | Ray Chen                | NotAName320      |
