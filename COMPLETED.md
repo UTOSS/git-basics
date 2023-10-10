@@ -30,3 +30,4 @@
 | Alfred Mikhael          | alfred-mikahel   |
 | Vincent Zhu             | Vincentzs        |
 | Isabela Guerrero        | isabelaguerreroo | 
+| RJ Malicdem             | Rhodwell         |
