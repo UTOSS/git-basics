@@ -27,3 +27,5 @@
 | Solemann Mateen         | SMateen21        |
 | Michael Zhou            | michaelzixizhou  |
 | Vincent Zhu             | Vincentzs        |
+| Isabela Guerrero        | isabelaguerreroo | 
+
