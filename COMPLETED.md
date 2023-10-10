@@ -26,4 +26,4 @@
 | Solemann Mateen         | SMateen21        |
 | Michael Zhou            | michaelzixizhou  |
 | Isabela Guerrero        | isabelaguerreroo | 
-| Lariat Iqbal            | laraib1121       |
+| Laraib Iqbal            | laraib1121       |
