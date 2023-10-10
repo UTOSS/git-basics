@@ -26,3 +26,4 @@
 | Solemann Mateen         | SMateen21        |
 | Michael Zhou            | michaelzixizhou  |
 | Isabela Guerrero        | isabelaguerreroo | 
+| RJ Malicdem             | Rhodwell         |
