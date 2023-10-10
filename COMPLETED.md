@@ -31,5 +31,5 @@
 | Isabela Guerrero         | isabelaguerreroo | 
 | RJ Malicdem              | Rhodwell         |
 | Raahil Mohamedjaved Vora | raahilv          |
-| Rohan Modi               | rohan-modi       | 
-
+| Rohan Modi               | rohan-modi       |
+| Shabnam Tajik            | ShbnmTjk         |
