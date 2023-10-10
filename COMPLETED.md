@@ -32,4 +32,4 @@
 | RJ Malicdem              | Rhodwell         |
 | Raahil Mohamedjaved Vora | raahilv          |
 | Rohan Modi               | rohan-modi       | 
-
+| Max Nguyen               | MaxNguyen5040    |
