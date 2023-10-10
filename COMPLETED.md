@@ -26,6 +26,7 @@
 | Karyna Lim              | karkabbage       |
 | Solemann Mateen         | SMateen21        |
 | Michael Zhou            | michaelzixizhou  |
+| Vivian Deng             | vivjd            |
 | Alfred Mikhael          | alfred-mikahel   |
 | Vincent Zhu             | Vincentzs        |
 | Isabela Guerrero        | isabelaguerreroo | 
