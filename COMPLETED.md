@@ -1,4 +1,5 @@
 # People who have completed this course
+
 | Name                    | GitHub username  |
 |-------------------------|------------------|
 | Calum Murray            | Cali0707         |
@@ -25,4 +26,6 @@
 | Karyna Lim              | karkabbage       |
 | Solemann Mateen         | SMateen21        |
 | Michael Zhou            | michaelzixizhou  |
+| Vincent Zhu             | Vincentzs        |
 | Isabela Guerrero        | isabelaguerreroo | 
+
