@@ -33,5 +33,8 @@
 | Raahil Mohamedjaved Vora | raahilv          |
 | Rohan Modi               | rohan-modi       | 
 | Kiarash Sotoudeh         | zzadxz           | 
-
-
+| Max Nguyen               | MaxNguyen5040    |
+| Ashwin Santhosh          | AshwinSant5      |
+| Laraib Iqbal             | laraib1121       |
+| Skye Nam                 | skyenam          |
+| Shabnam Tajik            | ShbnmTjk         |
