@@ -33,9 +33,14 @@
 | Raahil Mohamedjaved Vora | raahilv          |
 | Rohan Modi               | rohan-modi       | 
 | Sanchaai Mathiyarasan    | sm0ca            | 
+| Kiarash Sotoudeh         | zzadxz           | 
 | Max Nguyen               | MaxNguyen5040    |
 | Ashwin Santhosh          | AshwinSant5      |
 | Laraib Iqbal             | laraib1121       |
 | Skye Nam                 | skyenam          |
 | Shabnam Tajik            | ShbnmTjk         |
+| Anna Li                  | annali07         |
+| Eric Li                  | 23032ew          |
+| Kenny Guo		             | kennykguo 	      |
+| Muhammad Hamza           | anon1192         |
 
