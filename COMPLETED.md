@@ -1,4 +1,5 @@
 # People who have completed this course
+
 | Name                     | GitHub username  |
 |--------------------------|------------------|
 | Calum Murray             | Cali0707         |
@@ -33,3 +34,5 @@
 | Raahil Mohamedjaved Vora | raahilv          |
 | Rohan Modi               | rohan-modi       | 
 | Max Nguyen               | MaxNguyen5040    |
+| Ashwin Santhosh          | AshwinSant5      |
+| Laraib Iqbal             | laraib1121       |
