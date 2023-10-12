@@ -32,5 +32,19 @@
 | RJ Malicdem              | Rhodwell         |
 | Raahil Mohamedjaved Vora | raahilv          |
 | Rohan Modi               | rohan-modi       | 
+| Kiarash Sotoudeh         | zzadxz           | 
+| Max Nguyen               | MaxNguyen5040    |
+| Ashwin Santhosh          | AshwinSant5      |
+| Laraib Iqbal             | laraib1121       |
+| Skye Nam                 | skyenam          |
+| Shabnam Tajik            | ShbnmTjk         |
+| Anna Li                  | annali07         |
+| Eric Li                  | 23032ew          |
+| Kenny Guo		             | kennykguo 	      |
+| Muhammad Hamza           | anon1192         |
+| Kathy Lin                | kathy23980       |
+| Victor Weng              | Victor-Weng      |
+| Mark Estiller            | markestiller     |
+| Ethan Cheung             | yhz3             |
 | Owen Sun                 | owensun2004      |
 
