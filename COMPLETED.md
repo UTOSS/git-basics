@@ -32,6 +32,7 @@
 | RJ Malicdem              | Rhodwell         |
 | Raahil Mohamedjaved Vora | raahilv          |
 | Rohan Modi               | rohan-modi       | 
+| Sanchaai Mathiyarasan    | sm0ca            | 
 | Prashanth Shyamala       | prash-red        |
 | Kiarash Sotoudeh         | zzadxz           | 
 | Max Nguyen               | MaxNguyen5040    |
