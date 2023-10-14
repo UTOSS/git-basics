@@ -54,4 +54,5 @@
 | Wen Fu                   | WennnO           |
 | Pratham Hemlani          | prathamhemlani1  |
 | Kai Lo                   | klokailo         |
+| Aayush Bhan              | Bhan-Aayush      |
 | Anish Pai                | paianish62       |
