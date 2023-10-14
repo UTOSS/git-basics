@@ -28,13 +28,13 @@
 | Vivian Deng              | vivjd            |
 | Alfred Mikhael           | alfred-mikahel   |
 | Vincent Zhu              | Vincentzs        |
-| Isabela Guerrero         | isabelaguerreroo | 
+| Isabela Guerrero         | isabelaguerreroo |
 | RJ Malicdem              | Rhodwell         |
 | Raahil Mohamedjaved Vora | raahilv          |
-| Rohan Modi               | rohan-modi       | 
-| Sanchaai Mathiyarasan    | sm0ca            | 
+| Rohan Modi               | rohan-modi       |
+| Sanchaai Mathiyarasan    | sm0ca            |
 | Prashanth Shyamala       | prash-red        |
-| Kiarash Sotoudeh         | zzadxz           | 
+| Kiarash Sotoudeh         | zzadxz           |
 | Max Nguyen               | MaxNguyen5040    |
 | Ashwin Santhosh          | AshwinSant5      |
 | Laraib Iqbal             | laraib1121       |
@@ -50,9 +50,10 @@
 | Mark Estiller            | markestiller     |
 | Ethan Cheung             | yhz3             |
 | Owen Sun                 | owensun2004      |
-| Shenzhe Zhu              | FywOo02          | 
+| Shenzhe Zhu              | FywOo02          |
 | Wen Fu                   | WennnO           |
 | Pratham Hemlani          | prathamhemlani1  |
 | Kai Lo                   | klokailo         |
 | Aayush Bhan              | Bhan-Aayush      |
 | Anish Pai                | paianish62       |
+| Tanish Sharma            | TanishSh         |
