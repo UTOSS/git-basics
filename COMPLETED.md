@@ -52,3 +52,4 @@
 | Owen Sun                 | owensun2004      |
 | Shenzhe Zhu              | FywOo02          | 
 | Wen Fu                   | WennnO           |
+| Kai Lo                   | klokailo         |
