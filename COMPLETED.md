@@ -58,3 +58,4 @@
 | Aayush Bhan              | Bhan-Aayush      |
 | Anish Pai                | paianish62       |
 | Tanish Sharma            | TanishSh         |
+| Chi Zhang                | chuiyunjun       |
