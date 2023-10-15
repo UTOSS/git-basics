@@ -32,6 +32,7 @@
 | RJ Malicdem              | Rhodwell         |
 | Raahil Mohamedjaved Vora | raahilv          |
 | Rohan Modi               | rohan-modi       |
+| Ruihang Zhang            | ruihangzhang97 |
 | Sanchaai Mathiyarasan    | sm0ca            |
 | Prashanth Shyamala       | prash-red        |
 | Kiarash Sotoudeh         | zzadxz           |
@@ -57,4 +58,5 @@
 | Aayush Bhan              | Bhan-Aayush      |
 | Anish Pai                | paianish62       |
 | Tanish Sharma            | TanishSh         |
+| Chi Zhang                | chuiyunjun       |
 | Ananya Suri              |  suriananya      |
