@@ -74,7 +74,7 @@ git commit -a -m <commit message>
 ```
 
 > [!NOTE]
-> It is highly encouraged to write commit messages following the industry standard. To begin, the Conventional Commits specification is a lightweight convention on top of commit messages. It provides an easy set of rules for creating an explicit commit history; which makes it easier to write automated tools on top of. Read more details from [here](https://www.conventionalcommits.org/en/v1.0.0/).
+> It is highly encouraged to write commit messages using Conventional Commmits, which is an industry standard way to format commit messages. It provides an easy set of rules for writing your commit messages. If you are interested, you can find more details [here](https://www.conventionalcommits.org/en/v1.0.0/).
 
 ## Branches
 
