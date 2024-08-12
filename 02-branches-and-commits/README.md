@@ -64,7 +64,7 @@ git commit -m "Created the lesson 02-branches-and-commits"
 
 This creates a commit with the commit message "Created the lesson 02-branches-and-commits". However, if I don't want to pass the commit message with the `-m` flag, I can also
 not specify it when I run `git commit` and my terminal will use the editor stored in the git config to make the commit. By default this will be Vim (which you can exit after
-typing by entering `:wq`).:
+typing by entering `:wq`).
 
 Another scenario may be that you would just like to create a commit with all of the files changes in it, not just those you have added with `git add`. To do this, all you need to
 do is run:
