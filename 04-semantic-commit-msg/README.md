@@ -18,11 +18,13 @@ See how a minor change to your commit message style can make you a better develo
 ## Example
 
 ```
-feat: add hat wobble
-^--^  ^------------^
+feat(foo): add hat wobble
+^--^ ^-^      ^------------^
+|     |    |
+|     |    +-> Subject: summary in present tense.
 |     |
-|     +-> Summary in present tense.
-|
+|     +-> Scope(optional): narrow down to the scope in which the changes are applied to
+|     |
 +-------> Type: chore, docs, feat, fix, refactor, style, or test.
 ```
 
