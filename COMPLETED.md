@@ -61,3 +61,4 @@
 | Chi Zhang                | chuiyunjun       |
 | Ananya Suri              | suriananya       |
 | Xiao Zhang               | xiao215          |
+| Reece Laredo-Marcovitz   | eridarus         |
