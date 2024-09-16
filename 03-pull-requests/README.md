@@ -103,10 +103,8 @@ This lets you skip the first three steps above! If you then wanted to create a n
 To practice your skills and indicate that you have completed these lessons, you should:
 
 1. Push your local changes made in the previous lesson to your remote.
-2. Open a PR from your fork to the upstream repo (in this case that would be https://github.com/Cali0707/git-basics).
+2. Open a PR from your fork to the upstream repo (in this case that would be https://github.com/UTOSS/git-basics).
 3. Fix any review comments left on your PR and push those new changes to your remote again.
 
 P.S. If you enjoyed these lessons, or found them useful in some way, please [star the repository](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).
 This will help you find the repo to return to it later, and helps make it more visible to others as a good resource for them.
-
-
