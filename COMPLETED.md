@@ -64,3 +64,4 @@
 | Reece Laredo-Marcovitz   | eridarus         |
 | Joe Dai                  | jdtech3          |
 | Halley Martynov          | PerfectlyInternal|
+| Diego Ciudad Real        | DCR194           |
