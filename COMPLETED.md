@@ -44,7 +44,7 @@
 | Shabnam Tajik            | ShbnmTjk         |
 | Anna Li                  | annali07         |
 | Eric Li                  | 23032ew          |
-| Kenny Guo		             | kennykguo 	      |
+| Kenny Guo		           | kennykguo        |
 | Muhammad Hamza           | anon1192         |
 | Kathy Lin                | kathy23980       |
 | Victor Weng              | Victor-Weng      |
@@ -63,4 +63,5 @@
 | Xiao Zhang               | xiao215          |
 | Reece Laredo-Marcovitz   | eridarus         |
 | Joe Dai                  | jdtech3          |
+| Halley Martynov          | PerfectlyInternal|
 | Danyal Akhtar            | d3akhtar         |
