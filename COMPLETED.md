@@ -63,5 +63,9 @@
 | Xiao Zhang               | xiao215          |
 | Reece Laredo-Marcovitz   | eridarus         |
 | Joe Dai                  | jdtech3          |
+| Darshan Kasundra         | Darshan-Kasundra |
 | Halley Martynov          | PerfectlyInternal|
 | Brian Tsoi               | BrianShTsoi      |
+| Diego Ciudad Real        | DCR194           |
+| Richard Tan              | richardtan10176  |
+| Abhi Kupendiran	         | AbhigokulK       |
