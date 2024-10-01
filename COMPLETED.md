@@ -63,6 +63,7 @@
 | Xiao Zhang               | xiao215          |
 | Reece Laredo-Marcovitz   | eridarus         |
 | Joe Dai                  | jdtech3          |
-| Richard Tan              | richardtan10176  |
+| Darshan Kasundra         | Darshan-Kasundra |
 | Halley Martynov          | PerfectlyInternal|
+| Richard Tan              | richardtan10176  |
 | Abhi Kupendiran	         | AbhigokulK       |
