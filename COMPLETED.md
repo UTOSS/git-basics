@@ -63,5 +63,7 @@
 | Xiao Zhang               | xiao215          |
 | Reece Laredo-Marcovitz   | eridarus         |
 | Joe Dai                  | jdtech3          |
+| Richard Tan              | richardtan10176  |
 | Halley Martynov          | PerfectlyInternal|
 | Diego Ciudad Real        | DCR194           |
+| Abhi Kupendiran	         | AbhigokulK       |
