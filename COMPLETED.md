@@ -20,7 +20,7 @@
 | Zain Moustafa            | awesominat       |
 | Yijie Wang               | yijie-04         |
 | Victor Gao               | Phacometer       |
-| Saksham Malik		         |Saksham11111010001|
+| Saksham Malik		       |Saksham11111010001|
 | Tom Qi                   | tomqi6195        |
 | Karyna Lim               | karkabbage       |
 | Solemann Mateen          | SMateen21        |
@@ -32,7 +32,7 @@
 | RJ Malicdem              | Rhodwell         |
 | Raahil Mohamedjaved Vora | raahilv          |
 | Rohan Modi               | rohan-modi       |
-| Ruihang Zhang            | ruihangzhang97 |
+| Ruihang Zhang            | ruihangzhang97   |
 | Sanchaai Mathiyarasan    | sm0ca            |
 | Prashanth Shyamala       | prash-red        |
 | Kiarash Sotoudeh         | zzadxz           |
@@ -71,6 +71,6 @@
 | Brian Tsoi               | BrianShTsoi      |
 | Diego Ciudad Real        | DCR194           |
 | Richard Tan              | richardtan10176  |
-| Abhi Kupendiran	         | AbhigokulK       |
+| Abhi Kupendiran	       | AbhigokulK       |
 | Kaiqi Hu                 | A-hukaiqi        |
-
+| Ray Song                 | sduoduo233       |
