@@ -72,4 +72,6 @@
 | Diego Ciudad Real        | DCR194           |
 | Richard Tan              | richardtan10176  |
 | Abhi Kupendiran	         | AbhigokulK       |
+| Kaiqi Hu                 | A-hukaiqi        |
+
 | Arman Zaher              | zaherarm         |
