@@ -26,6 +26,7 @@
 | Solemann Mateen          | SMateen21        |
 | Michael Zhou             | michaelzixizhou  |
 | Vivian Deng              | vivjd            |
+| Alex Mamoukarys          | AlexMamoukarys   |
 | Alfred Mikhael           | alfred-mikahel   |
 | Vincent Zhu              | Vincentzs        |
 | Isabela Guerrero         | isabelaguerreroo |
