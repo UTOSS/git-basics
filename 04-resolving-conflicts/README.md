@@ -1,4 +1,4 @@
-# 03-resolving-conflicts
+# 04-resolving-conflicts
 
 In this lesson we will be discussing how conflicts may occur, as well as how to resolve them. This is a really important skill,
 as you will encounter conflicts at some point.
