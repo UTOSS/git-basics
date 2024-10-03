@@ -70,5 +70,6 @@
 | Danyal Akhtar            | d3akhtar         |
 | Brian Tsoi               | BrianShTsoi      |
 | Diego Ciudad Real        | DCR194           |
+| James Kim                | jamesjhkim       |
 | Richard Tan              | richardtan10176  |
 | Abhi Kupendiran	         | AbhigokulK       |
