@@ -76,4 +76,3 @@
 | Abhi Kupendiran	       | AbhigokulK       |
 | Kaiqi Hu                 | A-hukaiqi        |
 | Ray Song                 | sduoduo233       |
-| Zaher Arman              | zaherarman       |
