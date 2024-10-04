@@ -68,6 +68,7 @@
 | Halley Martynov          | PerfectlyInternal|
 | Jingtian                 | Peter-Hu12138    |
 | Swarup Ukil              | SwarupUkil       |
+| Zaher Arman              | zaherarman       |
 | Danyal Akhtar            | d3akhtar         |
 | Brian Tsoi               | BrianShTsoi      |
 | Diego Ciudad Real        | DCR194           |
