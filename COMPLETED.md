@@ -77,4 +77,5 @@
 | Ray Song                 | sduoduo233       |
 | Ruhan Kiani              | ruhankiani       |
 | Pera Kasemsripitak       | perakasem        |
+| Sina Fallah Ardizi       | sina-izi         |
 
