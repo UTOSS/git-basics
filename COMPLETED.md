@@ -75,6 +75,9 @@
 | Abhi Kupendiran	       | AbhigokulK       |
 | Kaiqi Hu                 | A-hukaiqi        |
 | Ray Song                 | sduoduo233       |
+| Lucas Chan               | lucasthchan      |
 | Ruhan Kiani              | ruhankiani       |
 | Khizar Maraj             | KMdotcom         |
+| Pera Kasemsripitak       | perakasem        |
+| Sina Fallah Ardizi       | sina-izi         |
 
