@@ -66,6 +66,7 @@
 | Joe Dai                  | jdtech3          |
 | Darshan Kasundra         | Darshan-Kasundra |
 | Halley Martynov          | PerfectlyInternal|
+| Riyad Valiyev            | riyadvaliyev     |
 | Jingtian                 | Peter-Hu12138    |
 | Swarup Ukil              | SwarupUkil       |
 | Danyal Akhtar            | d3akhtar         |
@@ -79,4 +80,3 @@
 | Ruhan Kiani              | ruhankiani       |
 | Pera Kasemsripitak       | perakasem        |
 | Sina Fallah Ardizi       | sina-izi         |
-
