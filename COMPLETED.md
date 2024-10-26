@@ -77,6 +77,7 @@
 | Ray Song                 | sduoduo233       |
 | Lucas Chan               | lucasthchan      |
 | Ruhan Kiani              | ruhankiani       |
+| Patrick Zhou             | patrickzhou17    |
 | Pera Kasemsripitak       | perakasem        |
 | Sina Fallah Ardizi       | sina-izi         |
 
