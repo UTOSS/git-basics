@@ -82,3 +82,4 @@
 | Ruhan Kiani              | ruhankiani       |
 | Pera Kasemsripitak       | perakasem        |
 | Sina Fallah Ardizi       | sina-izi         |
+| this is a conflict       | conflict         |
