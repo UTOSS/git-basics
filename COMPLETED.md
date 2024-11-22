@@ -76,6 +76,7 @@
 | Abhi Kupendiran	         | AbhigokulK       |
 | Kaiqi Hu                 | A-hukaiqi        |
 | Ray Song                 | sduoduo233       |
+| Edwyn Zhou               | edwynzhou        |
 | Marwan Ismail            | ismailmarwan     |
 | Vicheka Oeun             | vichekaoeun      |
 | Lucas Chan               | lucasthchan      |
