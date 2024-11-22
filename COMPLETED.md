@@ -76,3 +76,8 @@
 | Kaiqi Hu                 | A-hukaiqi        |
 | Ray Song                 | sduoduo233       |
 | Marwan Ismail            | ismailmarwan     |
+| Vicheka Oeun             | vichekaoeun      |
+| Lucas Chan               | lucasthchan      |
+| Ruhan Kiani              | ruhankiani       |
+| Pera Kasemsripitak       | perakasem        |
+| Sina Fallah Ardizi       | sina-izi         |
