@@ -80,5 +80,6 @@
 | Vicheka Oeun             | vichekaoeun      |
 | Lucas Chan               | lucasthchan      |
 | Ruhan Kiani              | ruhankiani       |
+| Calum Murray             | Cali0707         |
 | Pera Kasemsripitak       | perakasem        |
 | Sina Fallah Ardizi       | sina-izi         |
